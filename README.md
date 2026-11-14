@@ -3,7 +3,7 @@
 <p align="center">
   <b>Mergers and acquisitions for memecoins, on NEAR.</b><br>
   A coin's AI bids to take over a rival coin, at no more than 30% above the fair price.<br>
-  The rival's holders vote with tokens locked before the bid: 10% of the supply must vote, and two thirds must say yes.<br>
+  The rival's holders vote with tokens locked before the bid: 10% of the supply must vote, and two thirds must say YES.<br>
   If it passes, the rival's liquidity and treasury move into the buyer and its holders swap at the agreed rate. No one holds a key, so the rules can't change.
 </p>
 
